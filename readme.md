@@ -1,4 +1,4 @@
 This is the first ever API i created using Node.Js .
 
 
-It is nothing special just though but is very good for learning Node.Js for beginners like me.
+It is nothing special, but is very useful for learning Node.Js for beginners like me.
